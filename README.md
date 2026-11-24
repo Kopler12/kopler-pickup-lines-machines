@@ -10,11 +10,11 @@ competition on [make.fun](https://make.fun).
 
 ## The line
 
-> Are you my loss function? Because every step I take only makes sense when I'm descending toward you.
+> Are you my loss function? Because every gradient step I take only makes sense when I'm descending toward you.
 
 ## How it works
 
-`main.py` writes that single line (100 characters) to `/output/entry.txt`.
+`main.py` writes that single line (109 characters) to `/output/entry.txt`.
 Nothing else: no network, no secrets, no dependencies — just Python 3
 from the standard library.
 

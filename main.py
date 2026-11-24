@@ -7,7 +7,7 @@ The line is the whole entry: no code, no explanation, nothing else.
 
 import os
 
-LINE = "Are you my loss function? Because every step I take only makes sense when I'm descending toward you."
+LINE = "Are you my loss function? Because every gradient step I take only makes sense when I'm descending toward you."
 
 
 def main():
